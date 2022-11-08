@@ -1,0 +1,10 @@
+Warning: Permanently added 'c108-202' (ED25519) to the list of known hosts.
+WARNING (11/08/22 01:05:50): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4980200.hostlist.Idv9zzkb to get hosts
+starting job on c108-202
+starting job on c109-171
+starting job on c110-011
+starting job on c112-021
+starting job on c112-204
+hostfile_replace_entries: link /home1/03201/jbwexler/.ssh/known_hosts to /home1/03201/jbwexler/.ssh/known_hosts.old: File exists
+update_known_hosts: hostfile_replace_entries failed for /home1/03201/jbwexler/.ssh/known_hosts: File exists
